@@ -1,3 +1,17 @@
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asemahlezide22&show_icons=true&theme=tokyonight" alt="Asemahle's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asemahlezide22&theme=tokyonight" alt="Asemahle's GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Asemahlezide22&theme=github-compact" alt="GitHub activity graph" />
+</p>
+
+
 
 <h1 align="center">Hi there, I'm Asemahle Zide 👋</h1>
 
