@@ -16,13 +16,8 @@
 ### ✨ About Me
 
 Hi, I’m **Asemahle** a curious and passionate data explorer who enjoys transforming raw numbers into stories that matter.  
-🔍 Whether it's discovering trends in a dataset or creating dashboards that sparkle with insights, I love helping people make sense of data.
+🔍 Whether it's discovering trends in a dataset or creating dashboards that sparkle with insights.
 
-- 📊 Currently learning by doing — building real-world dashboards, writing SQL queries, and experimenting with Python automation.
-- 🎓 Advancing my knowledge through an **Advanced Diploma in Business & Information Sys Administration** at CPUT.
-- 💡 Obsessed with data visualisation, clean design, and solving meaningful problems.
-- 💬 Always learning. Always sharing. Always building.
----
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** SQL | Python (Beginner) | HTML | CSS
