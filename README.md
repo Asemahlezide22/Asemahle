@@ -38,5 +38,5 @@ Hi, I’m **Asemahle** a curious and passionate data explorer who enjoys transfo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asemahlezide22&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asemahlezide22&theme=radical" alt="Streak Stats"   />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asemahlezide22&theme=radical" alt="Streak Stats" />
 </p>
